@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "location": "HB_NORTH",
+  "schedule_traces_checked": 145,
+  "independent_policy_regenerations": 145,
+  "source_hashes_checked": 296,
+  "no_lookahead_mutation": true,
+  "negative_control_shuffled_days": 29,
+  "scored_days": 29
+}

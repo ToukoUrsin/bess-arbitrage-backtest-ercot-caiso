@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "locations": [
+    "HB_HOUSTON",
+    "HB_NORTH",
+    "HB_WEST",
+    "NP15",
+    "SP15",
+    "ZP26"
+  ],
+  "schedule_traces_checked": 690,
+  "independent_policy_regenerations": 690,
+  "source_hashes_checked": 248,
+  "no_lookahead_mutation": true,
+  "negative_control_shuffled_days": {
+    "HB_HOUSTON": 23.0,
+    "HB_NORTH": 23.0,
+    "HB_WEST": 23.0,
+    "NP15": 23.0,
+    "SP15": 23.0,
+    "ZP26": 23.0
+  },
+  "scored_days": 23
+}
